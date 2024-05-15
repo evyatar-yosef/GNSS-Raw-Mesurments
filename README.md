@@ -11,9 +11,13 @@ python task_0.py
 
 # Usage
 Clone or download the code repository to your local machine using git clone or directly.
+
 place GNSS data file in the same directory as the code.
+
 Navigate to the project directory in your terminal.
-enter the path to the Gnss data
+
+enter the path to the Gnss data.
+
 Run the main script: python task_0.py
 
 # Features
@@ -25,6 +29,7 @@ Calculates the positions of orbiting satellites based on ephemeris data, timesta
 
 #### User Location Estimation:
 Utilizes a least squares estimation algorithm to determine the user's position and clock bias using a weighted set of satellite pseudo-ranges.
+
 #### Coordinate Conversion:
 Transforms Earth-centered, Earth-fixed (ECEF) coordinates into intuitive latitude, longitude, and altitude (LLA) formats.
 
