@@ -2,7 +2,8 @@
 This repository contains  code for amateur  (Global Navigation Satellite System) data analysis. The code is designed to decode raw satellite  data collected from a smartphone, calculate satellite positions and user location, and export the results for further analysis or visualization.
 
 # Requirements
-Python 3.x (Anaconda or miniconda recommended)
+Python 3.x (Anaconda or miniconda recommended).
+
 Python Libraries: pandas, numpy, matplotlib, navpy, gnssutils, simplekml
 
 # Run command
